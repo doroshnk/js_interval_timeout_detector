@@ -1,7 +1,7 @@
+- Intercepts all setTimeout and setInterval calls on the page.
+  
 - Works on any website, as long as it's enabled and runs early (@run-at document-start).
   
-- Intercepts all setTimeout and setInterval calls on the page.
-
 - Stores timer information: ID, delay, and callback reference.
 
 - Lets you inspect all active timeouts and intervals using:
